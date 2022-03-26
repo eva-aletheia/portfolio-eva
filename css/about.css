@@ -1,0 +1,118 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 80px;
+    color: #E5E5E5;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(128, 124, 124);
+  
+}
+
+a:hover {
+  color: #165E86;
+}
+
+.navegacion{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 200px 80px 200px;
+    align-items: baseline;
+    
+}
+
+.links  {
+    display: flex;
+    gap: 40px;
+}
+
+.links a{
+font-family: 'poppins';
+font-weight: 300;
+font-size: 20px;
+text-align: left;
+
+}
+
+#gif {
+width: 40%;
+}
+
+h1:hover {
+    color: #165E86;
+  }
+  
+#about {
+    color: #165E86; 
+    font-weight: 400;
+}
+
+.aletheia {
+    padding: 80px 200px 80px 200px;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    width: 80%;
+}
+
+p {
+    font-family: 'poppins';
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: left;
+    color: rgb(65, 64, 64);
+    max-width: 800px;
+}
+
+
+footer {
+    padding: 60px 200px 60px 200px;
+    background-color: #165E86;
+    
+  }
+  
+  footer div p {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 60px;
+    /* or 140% */
+    color: white;
+    max-width: 555px;
+    text-align: center;
+  }
+  
+  .text-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+.logo-rrss {
+  width: 100%;
+}
+  
+.container-mediums img {
+width: 100%;
+
+}
+  .container-mediums {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    justify-items: flex-end;
+    width: 10%;
+    gap: 20px;
+  }
+  
+
+
+  #trampa {
+    display: flex;
+    justify-content: center;
+  }
